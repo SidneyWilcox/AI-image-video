@@ -1,1 +1,1 @@
-CNN Lesson from LinkedIn class# AI-image-video
+CNN Lesson from LinkedIn class on hand written digits# AI-image-video
